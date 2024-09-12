@@ -1,0 +1,15 @@
+Basic Libraries:
+    numpy 
+    matplotlib 
+    pandas 
+
+Computer Vision:
+    opencv-python==4.10.0.84 
+
+
+Machine Learning/Deep Learning:
+    ultralytics==8.2.64 - YOLOv8 for object detection and tracking.
+
+Supporting Libraries:
+    supervision==0.22.0 - Provides utilities for tracking and annotations.
+    argparse==1.4.0 - Handles command-line arguments.

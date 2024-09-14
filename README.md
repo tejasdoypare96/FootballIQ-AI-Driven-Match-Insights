@@ -85,12 +85,7 @@ This project focuses on analyzing football match videos using advanced machine l
 - Add graphical HUD to display player positions on a field.
 - Enhance the representation of data for better clarity.
 
-## Acknowledgements
-------
-- **Roboflow** for the dataset.
-- **Ultralytics** for the YOLOv8 model.
-- **Huggingface** for hosting the fine-tuned model.
-- **YouTube tutorial** that inspired the project: [Football Analysis Tutorial](https://www.youtube.com/watch?v=7l5UgtWfnw0)
+
 
 
 

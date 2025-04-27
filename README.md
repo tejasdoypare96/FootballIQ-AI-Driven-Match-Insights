@@ -2,7 +2,7 @@
 
 This project focuses on analyzing football match videos using advanced machine learning techniques. It tracks players, referees, and the ball in real-time, provides insights like ball possession, team control, player speed, and distance covered, and displays various metrics on the video output.
  
-## Overview
+## Overview 
 
 1. **Object Detection & Tracking**:
    - Fine-tuned a **YOLOv8** model on a custom RoboFlow dataset to detect players, referees, and the football.
